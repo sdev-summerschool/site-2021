@@ -32,3 +32,6 @@ The following presents a tentative schedule of the summer school:
 
 
 
+## Contact
+
+For questions and inquiries please contact us at sdev.summerschool[at]gmail.com
