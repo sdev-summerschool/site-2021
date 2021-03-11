@@ -14,7 +14,7 @@ The Alliance Summer School in sustainable development is a student-led initiativ
 
 This year's 5-day virtual program is geared toward graduate students in economics, environmental science, public policy, and related fields. Each day, the summer school will open with presentations by world-class researchers and policymakers who work on topics related to inequality and the environment; participants will then work in groups to develop a unique research proposal related to the theme. Students will also participate in practical workshops geared toward developing data analysis skills. The goal of the summer school is to bring together a diverse group of researchers for building research skills and developing connections for future research collaboration.
 
-The official flyer of the summer school can be found [here](https://github.com/sdev-summerschool/site-2021/Material/Flyer.pdf).
+The official flyer of the summer school can be found [here](https://github.com/sdev-summerschool/site-2021/tree/main/Material/Flyer.pdf).
 
 
 
