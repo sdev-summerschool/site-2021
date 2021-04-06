@@ -32,7 +32,7 @@ The summer school will be organized in 3 tracks:
 
 **All participants will be able to attend lectures and workshops from all tracks**, but independent work in small groups will be organized according to track interests. 
 
-The following presents a tentative schedule of the summer school:
+The following presents a tentative schedule of the summer school (all times ET):
 
 | Time          |            12 May            |        13 May        |      14 May       |        15 - 18 May         |   19 May    |            20 May            |
 | ------------- | :--------------------------: | :------------------: | :---------------: | :------------------------: | :---------: | :--------------------------: |
