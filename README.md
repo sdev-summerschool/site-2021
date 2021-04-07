@@ -34,17 +34,6 @@ The summer school will be organized in 3 tracks:
 
 The following presents a tentative schedule of the summer school (all times ET):
 
-| Time          |            12 May            |        13 May        |      14 May       |        15 - 18 May         |   19 May    |            20 May            |
-| ------------- | :--------------------------: | :------------------: | :---------------: | :------------------------: | :---------: | :--------------------------: |
-|               |         *Wednesday*          |      *Thursday*      |     *Friday*      | *Weekend, Monday, Tuesday* | *Wednesday* |          *Thursday*          |
-| 08:30 - 09:30 |           Welcome            |      Lecture 1       |  Jun Rentschler   |                            |  Lecture 5  |  Keynote 2: Joseph Stiglitz  |
-| 09:30 - 10:00 |                              |                      |                   |                            |             |                              |
-| 10:00 - 11:00 | Getting to know track groups | Work in track groups | Ana Varela Varela |                            |  Lecture 6  | Discussing Research Projects |
-| 11:00 - 12:00 |                              |                      |                   |                            |             |                              |
-| 12:00 - 13:00 |          Keynote 1           |      Lecture 2       |     Workshop      |                            |  Workshop   |           Goodbye            |
-
-
-
 | Time | 12 May    | 13 May | 14 May | 15 - 18 May | 19 May | 20 May |
 | ---- | :---------: | :--------: | :------: | :-------: | :---------: | :--------: |
 |  | *Wednesday* | *Thursday* | *Friday* | *Weekend, Monday, Tuesday* | *Wednesday* | *Thursday* |
