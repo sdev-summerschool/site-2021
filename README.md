@@ -1,8 +1,8 @@
 ## Application and Dates
 
-The 10th Alliance Summer School in sustainable development will take place online on **12-14 May and 19-20 May 2021** between **8am and 2pm EST** and will focus on **Inequality and the Environment**. 
+The 10th Alliance Summer School in sustainable development will take place **online on 12-14 May and 19-20 May 2021** between **8am and 2pm EST** and will focus on **Inequality and the Environment**. 
 
-Interested Master and PhD students can apply  ~~5 April 2021~~  **18 April 2021** (extended deadline)
+Interested Master and PhD students can apply until ~~5 April 2021~~  **18 April 2021** (extended deadline)
 
 **There is no fee required for participation.**
 
@@ -30,7 +30,7 @@ The summer school will be organized in 3 tracks:
 2. Unequal impacts of climate change
 3. Unequal effects of environmental pollution and ecological degradation
 
-**All participants will be able to attend lectures and workshops from all tracks**, but independent work in small groups will be organized according to track interests. 
+**All participants will be able to attend lectures, keynotes and workshops from all tracks**, but independent work in small groups will be organized according to track interests. 
 
 The following presents a tentative schedule of the summer school (all times ET):
 
@@ -44,6 +44,29 @@ The following presents a tentative schedule of the summer school (all times ET):
 | 12:00 - 13:00 |          Keynote 1           |      Lecture 2       |     Workshop      |                            |  Workshop   |           Goodbye            |
 
 
+
+| Time | 12 May    | 13 May | 14 May | 15 - 18 May | 19 May | 20 May |
+| ---- | :---------: | :--------: | :------: | :-------: | :---------: | :--------: |
+|  | *Wednesday* | *Thursday* | *Friday* | *Weekend, Monday, Tuesday* | *Wednesday* | *Thursday* |
+| 08:30 - 09:30 | Welcome | Lecture 1 | Jun Rentschler |         | Lecture 5 | Keynote 2: Joseph Stiglitz |
+| 09:30 - 10:00 |           |          |        |         |           |          |
+| 10:00 - 11:00 | Getting to know track groups | Work in track groups | Ana Varela Varela | | Lecture 6 | Discussing Research Projects |
+| 11:00 - 12:00 | | | | | | |
+| 12:00 - 13:00 | Keynote 1 | Lecture 2 | Workshop | | Workshop | Goodbye |
+
+
+
+## Confirmed Speakers
+
+[**Vijay Limaye**](https://www.nrdc.org/experts/vijay-limaye): *Staff Scientist at the Natural Resource Defense Council*
+
+[**Jun Rentschler**](https://blogs.worldbank.org/team/jun-erik-rentschler): *Senior Economist at the Office of the Chief Economist for Sustainable Development at the World Bank*
+
+[**Joseph E. Stiglitz**](https://www8.gsb.columbia.edu/faculty/jstiglitz/): *Professor at Columbia University*
+
+[**Ana Varela Varela**](https://www.anavarelavarela.com/): *Economics Fellow at the Institute for Policy Integrity at New York University*
+
+[**Corbett Grainger**](https://sites.google.com/site/cgrainger): *Associate Professor in the Ag & Applied Economics Department at University of Wisconsin*
 
 
 
