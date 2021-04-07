@@ -1,6 +1,6 @@
 ## Application and Dates
 
-The 10th Alliance Summer School in sustainable development will take place online on **12-14 May and 19-20 May 2021** between **8am and 2pm EST** and will focus on **Inequality and the Environment**. 
+The 10th Alliance Summer School in sustainable development will take place **online on 12-14 May and 19-20 May 2021** between **8am and 2pm EST** and will focus on **Inequality and the Environment**. 
 
 Interested Master and PhD students can apply until ~~5 April 2021~~  **18 April 2021** (extended deadline)
 
@@ -47,35 +47,15 @@ The following presents a tentative schedule of the summer school:
 
 ## Confirmed Speakers
 
-**Vijay Limaye**
+[**Vijay Limaye**](https://www.nrdc.org/experts/vijay-limaye): *Staff Scientist at the Natural Resource Defense Council*
 
-*Staff Scientist at the Natural Resource Defense Council*
+[**Jun Rentschler**](https://blogs.worldbank.org/team/jun-erik-rentschler): *Senior Economist at the Office of the Chief Economist for Sustainable Development at the World Bank*
 
-Vijay Limaye is a climate and  health scientist in NRDC's Science Center. As an epidemiologist, he is  broadly interested in addressing international environmental health  challenges—quantifying, communicating, and reducing the risks associated with climate change—with a focus on the public health burdens of air  pollution and extreme heat. At NRDC, he leads economic valuation work to demonstrate the significant health costs of climate change and he works to defend the science that underpins the Clean Air Act. Prior to  joining NRDC, he worked as a U.S. Environmental Protection Agency  scientist, focusing on Clean Air Act regulatory implementation, air  quality monitoring policy, risk communication, and citizen science.  Limaye, who also speaks Spanish and Hindi, has published several  research studies on the health impacts of climate change-triggered air  pollution and extreme heat in the U.S. and India. He holds a bachelor's  degree from the University of California, Berkeley and a PhD in  environmental epidemiology from the University of Wisconsin, Madison.
+[**Joseph E. Stiglitz**](https://www8.gsb.columbia.edu/faculty/jstiglitz/): *Professor at Columbia University*
 
-##### Jun Rentschler
+[**Ana Varela Varela**](https://www.anavarelavarela.com/): *Economics Fellow at the Institute for Policy Integrity at New York University*
 
-*Senior Economist at the Office of the Chief Economist for Sustainable Development at the World Bank*
-
-Jun Rentschler is an economist working at the intersection of climate change and sustainable resilient development at the World Bank. Prior to joining The World Bank in 2012, he served as an Economic Adviser at the German Foreign Ministry. He also spent two years at the European Bank for Reconstruction and Development (EBRD) working on private sector investment projects in resource efficiency and climate change. Before that he worked on projects with Grameen Microfinance Bank in Bangladesh and the Partners for Financial Stability Program by USAID in Poland. He is a Visiting Fellow at the Payne Institute for Public Policy, following previous affiliations with the Oxford Institute for Energy Studies and the Graduate Institute for Policy Studies in Tokyo. Jun holds a PhD in Economics from University College London (UCL), specializing in development, climate, and energy. 
-
-##### Joseph E. Stiglitz
-
-*Professor at Columbia University*
-
-
-
-##### Ana Varela Varela
-
-*Economics Fellow at the Institute for Policy Integrity at New York University*
-
-Ana Varela Varela is an Economics Fellow (postdoc) at the Institute for Policy Integrity at New York University. In Fall 2021, she will join the Amsterdam School of Economics at the University of Amsterdam as an Assistant Professor. Ana is an alumn of the Sustainable Development Program and completed her PhD  at Columbia University in 2019. She specialized in environmental and urban economics. At the summer school, she will present her job market paper on the impacts of flooding on spatial inequality as well as other ongoing work. 
-
-Ana also holds a Master in City Planning from the University of California, Berkeley, as well as degrees in Environmental Studies from Imperial College London, and in Civil Engineering from the University of A Coruña, Spain. Prior to her PhD, she worked as a consultant in sustainable infrastructure and urban planning projects.
-
-
-
-
+[**Corbett Grainger**](https://sites.google.com/site/cgrainger): *Associate Professor in the Ag & Applied Economics Department at University of Wisconsin*
 
 
 
