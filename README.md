@@ -1,16 +1,8 @@
 ## Application and Dates
 
-The 10th Alliance Summer School in sustainable development will take place **online on 12-14 May and 19-20 May 2021** between **8am and 2pm EST** and will focus on **Inequality and the Environment**. 
+The 10th Alliance Summer School in sustainable development will take place **online on 12-14 May and 19-20 May 2021** between **8am and 2pm ET** and will focus on **Inequality and the Environment**. 
 
-Interested Master and PhD students can apply until ~~5 April 2021~~  **18 April 2021** (extended deadline)
-
-**There is no fee required for participation.**
-
-Please use the following link to apply:
-
-[Apply here to the 2021 Alliance Summer School](http://tinyurl.com/sdev2021)
-
-
+**Applications are now closed**
 
 ## Description 
 
@@ -41,7 +33,7 @@ The following presents a tentative schedule of the summer school (all times ET):
 | 09:30 - 10:00 |           |          |        |         |           |          |
 | 10:00 - 11:00 | Getting to know track groups | Work in track groups | Ana Varela Varela | | Lecture 6 | Discussing Research Projects |
 | 11:00 - 12:00 | | | | | | |
-| 12:00 - 13:00 | Keynote 1 | Belinda Archibong | Workshop | | Workshop | Goodbye |
+| 12:00 - 13:00 | Keynote 1 | Belinda Archibong | Vijay Limaye | | Workshop | Goodbye |
 
 
 
